@@ -1,4 +1,5 @@
 # Comp_411_Computer_Org
 C code written for Computer Organization Class
 
-HelloWorld.c: inputs a number from 1-5 and prints "Hello Wolrd" that many times
+Hello_World.c: inputs a number from 1-5 and prints "Hello Wolrd" that many times
+Sum_Mean_Product.c: takes input of 5 floating point numbers and prints the sum, mean and product
