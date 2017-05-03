@@ -19,3 +19,5 @@ Bubble_Sort_With_Pointers: bubble sort writen with pointers instead of arrays
 a_to_i.c: program that converts a string of ASCII digits to a 32-bit integer
 
 i_to_a.c: program that converts a 32-bit integer to a string of ASCII digits
+
+Linked_List_And_Structs: program that creates a singly linked list of point structs (which include an x and y coordinate) and uses this information to print the square of the distance from each point to the origin (0, 0)
