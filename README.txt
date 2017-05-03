@@ -17,3 +17,5 @@ Bubble_Sort_With_Cfuncs: bubble sort with built in C string functions
 Bubble_Sort_With_Pointers: bubble sort writen with pointers instead of arrays
 
 a_to_i.c: program that converts a string of ASCII digits to a 32-bit integer
+
+i_to_a.c: program that converts a 32-bit integer to a string of ASCII digits
