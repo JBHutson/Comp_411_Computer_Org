@@ -15,3 +15,5 @@ Bubble_Sorts: a collection of bubble sort programs that order a set of character
 Bubble_Sort_Without_Cfuncs: bubble sort without the use of built in C string functions
 Bubble_Sort_With_Cfuncs: bubble sort with built in C string functions
 Bubble_Sort_With_Pointers: bubble sort writen with pointers instead of arrays
+
+a_to_i.c: program that converts a string of ASCII digits to a 32-bit integer
