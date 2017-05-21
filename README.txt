@@ -1,4 +1,10 @@
-# Comp_411_Computer_Org
+# Comp_411_Computer_Organization
+
+Course Description
+Digital logic, circuit components. Data representation, computer architecture and implementation, assembly language programming/Basics of how computers work from implementation to system software
+
+
+
 C code written for Computer Organization Class
 
 Hello_World.c: takes input a number from 1-5 and prints "Hello Wolrd" that many times
