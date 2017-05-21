@@ -1,9 +1,7 @@
 # Comp_411_Computer_Organization
 
-Course Description
+Course Description (Directly from syllabus): 
 Digital logic, circuit components. Data representation, computer architecture and implementation, assembly language programming/Basics of how computers work from implementation to system software
-
-
 
 C code written for Computer Organization Class
 
